@@ -35,10 +35,84 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  
+
+
+### **📌 programas y lenguajes**
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>SolidWorks</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d4/SolidWorks_Logo.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Swift</center></b></span> 
+<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Bash</center></b></span> 
+<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
 ### **👾 contactame**
-<p>
-    <a href="https://open.spotify.com/user/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@avellar_7%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/avellar_7" alt="Spotify Badge"></a>
-    <a href="https://facebook.com/ricardo.lopezmartinez.5815" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@Ricardo+Lopez?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/ricardo.lopezmartinez.5815" alt="Facebook Badge"></a> 
-    <a href="https://instagram.com/ricardo.lp._" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
-</p>
+
