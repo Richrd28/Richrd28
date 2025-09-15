@@ -23,8 +23,15 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### *🛸 Metas**
+### **🛸 Metas**
 Mis metas a corto plazo es poder llegar a terminar mi formacion academica en la utm, mientras que a largo plazo mis metas son poder llegar aplicar el conocimiento adquirido en la utm.
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
+### **🪐 Habilidades**
+Poseo habilidades en el diseño de piezas con SolidWorks y en el ámbito de la manufactura. A nivel personal, soy una persona sociable con gran aptitud para el trabajo en equipo, lo que he desarrollado a través de mi participación en deportes.
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
