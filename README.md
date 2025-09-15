@@ -17,7 +17,7 @@ Soy Ricardo Lopez Martinez. Actualmente estudiante de septimo semestre de Ingeni
 <br>
   
 ### **💡 Intereses**
-Mis principales intereses son la  electronica y sus aplicaciones en el control.
+Mis principales intereses son la  electronica y sus aplicaciones en el control. de igual forma el diseño y manofactura de piezas.
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -37,24 +37,24 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 <br>
 
 
-### **📌 programas y lenguajes**
+### **📌 software y lenguajes que eh usado**
 <br>
 <table>
 <tbody>
  <tr>
 <td align="center" width="20%">
 <span><b><center>SolidWorks</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d4/SolidWorks_Logo.svg"> 
+<img height=60px src=https://www.svgrepo.com/svg/508968/solidworks>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>java</center></b></span> 
+<img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<span><b><center>C</center></b></span> 
+<img height=60px src="http://www.w3.org/2000/svg"> 
 </td>
 </tr>
 
@@ -65,49 +65,13 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<span><b><center>proteus</center></b></span> 
+<img height=65px src="https://img.shields.io/badge/Proteus-4169E1?style=for-the-badge&logo=proteus&logoColor=white" > 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 </tr>
 
