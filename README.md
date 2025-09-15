@@ -44,7 +44,7 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
  <tr>
 <td align="center" width="20%">
 <span><b><center>SolidWorks</center></b></span> 
-<img height=60px src=https://www.svgrepo.com/svg/508968/solidworks>
+<img height=60px src=https://cdn.iconscout.com/icon/free/png-512/free-trabajo-solido-icon-svg-download-png-282892.png?f=webp&w=512>
 </td>
 
 <td align="center" width="20%">
@@ -53,8 +53,8 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C</center></b></span> 
-<img height=60px src="http://www.w3.org/2000/svg"> 
+<span><b><center></center></b></span> 
+<img height=60px src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"> 
 </td>
 </tr>
 
@@ -66,7 +66,7 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 
 <td align="center" width="20%">
 <span><b><center>proteus</center></b></span> 
-<img height=65px src="https://img.shields.io/badge/Proteus-4169E1?style=for-the-badge&logo=proteus&logoColor=white" > 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Proteus_Design_Suite_Atom_Logo.png/330px-Proteus_Design_Suite_Atom_Logo.png" > 
 </td>
 
 <td align="center" width="20%">
