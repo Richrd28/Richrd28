@@ -5,15 +5,24 @@
 <span/>
 </div>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 ### **Hola, me presento**
 Soy Ricardo Lopez Martinez. Actualmente estudiante de septimo semestre de Ingenieria en Mecatronica :robot: en la universidad Tecnologica de la mixteca (utm) 
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 ### **💡 Intereses**
 Mis principales intereses son la  electronica y sus aplicaciones en el control.
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 ### **📚 pasatiempos**
 
 - ⚽ jugar futbol y voleibol con amigos.
@@ -21,5 +30,8 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 - 📺 ver series y peliculas.
 - 🌌 ver noches estrelladas.
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 ### **🌱 objetivos**
