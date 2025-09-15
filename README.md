@@ -80,3 +80,7 @@ Mis principales intereses son la  electronica y sus aplicaciones en el control.
 
 ### **👾 contactame**
 
+<p align="center">
+   <a href="https://www.facebook.com/ricardo.lopezmartinez.5815"><img height=50px src="https://www.svgrepo.com/show/448224/facebook.svg" alt="facebook"/></a>
+   <a href="https://www.instagram.com/ricardo.lp._?igsh=MXB0Nmt4aTh1bWpqbg%3D%3D&utm_source=qr"><img height=50px src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="instagram"/></a>
+</p>
